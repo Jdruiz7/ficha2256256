@@ -1,3 +1,4 @@
+<!-- Documento de desarrollador -->
 <?php
 
     //////CONTROLLER//////
