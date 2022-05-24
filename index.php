@@ -1,5 +1,5 @@
 
-<!-- Oh my god Teacher, Documento correcto -->
+<!-- panderos -->
 
 <?php
 
