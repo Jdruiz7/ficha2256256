@@ -1,4 +1,6 @@
-<!-- Domento desarrollador -->
+
+<!-- Oh my god Teacher, Documento correcto -->
+
 <?php
 
     //////CONTROLLER//////
