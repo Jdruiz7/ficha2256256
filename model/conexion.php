@@ -1,4 +1,5 @@
 <?php
+/*
     class Conexion{
         private $host;
         private $drive;
@@ -29,7 +30,7 @@
             }
             return $con;
         }
-    }
+    }*/
 
    
 
