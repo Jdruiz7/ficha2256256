@@ -1,4 +1,6 @@
-<!-- Oh my god Teacher -->
+
+<!-- Oh my god Teacher, Documento correcto -->
+
 <?php
 
     //////CONTROLLER//////
